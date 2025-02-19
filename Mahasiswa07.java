@@ -56,4 +56,20 @@ public class Mahasiswa07 {
 
         scanner.close();
     }
+
+    public Mahasiswa07() {
+
+    }
+    public Mahasiswa07(String nm, String nim, double ipk, String kls) {
+        nama = nm;
+        this.nim = nim;
+        this.ipk = ipk;
+        kelas = kls;
+    }
+    public Mahasiswa07(String nm, String nim, double ipk, String kls) {
+        nama = nm;
+        this.nim = nim;
+        this.ipk = ipk;
+        kelas = kls;
+    }
 }
